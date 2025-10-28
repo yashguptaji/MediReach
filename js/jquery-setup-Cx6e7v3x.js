@@ -1,0 +1,1 @@
+import{$ as o}from"./vendor-tables-CdG1tERj.js";"undefined"!=typeof window&&(window.jQuery=window.$=o,globalThis.jQuery=globalThis.$=o,"undefined"!=typeof globalThis&&(globalThis.jQuery=globalThis.$=o),!window.jQuery||window.$);
